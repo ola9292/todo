@@ -1,0 +1,23 @@
+.done{
+    text-decoration: line-through;
+	color: grey;
+}
+.container{
+    padding: 30px;
+    width: 370px;
+    margin: auto
+
+}
+.list{
+    width: 370px;
+    margin: auto  
+}
+body {
+    background-color: lightgreen !important;
+  }
+  .finish{
+      display: none
+  }
+  #button-addon2{
+      background-color: orchid
+  }
